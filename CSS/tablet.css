@@ -1,0 +1,13 @@
+.benefitsSection-blockCountainer{
+    display: flex;
+    flex-flow: row wrap;
+}
+.B1{
+    margin-top: 16px;
+}
+.B4{
+    margin-bottom: 16px;
+}
+.main-planesSection-cardsCountainer{
+    justify-content: center;
+}
