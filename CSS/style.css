@@ -80,7 +80,7 @@ header img{
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background: url("assets/icons/down-arrow.svg") center no-repeat;
+    background: url("../Assets/down-arrow.svg") center no-repeat;
     background-size: cover;
 }
 /*MAIN*/
@@ -103,7 +103,7 @@ main{
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background: url("./assets/img/Bitcoin.svg") center no-repeat;
+    background: url("../Assets/Bitcoin.svg") center no-repeat;
     background-size: cover;
 }
 .presentation-slogan{
@@ -188,7 +188,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background: url("./assets/icons/trending-down.svg") no-repeat center;
+    background: url("../Assets/trending-down.svg") no-repeat center;
     background-size: cover;
 }
 .table1__tableCountainer .up{
@@ -196,7 +196,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background: url("./assets/icons/trending-up.svg") no-repeat center;
+    background: url("../Assets/trending-up.svg") no-repeat center;
     background-size: cover;
 }
 .table1__date, .table2__date{
@@ -298,7 +298,7 @@ main{
     margin-top:16px;
     margin-left: 7%;
     margin-bottom: 12px; 
-    background: url("./assets/icons/clock.svg") no-repeat center;
+    background: url("../Assets/clock.svg") no-repeat center;
     background-size: cover;
 }
 .B2 span{
@@ -308,7 +308,7 @@ main{
     margin-top:18px;
     margin-left: 7%;
     margin-bottom: 14px; 
-    background: url("./assets/icons/eye.svg") no-repeat center;
+    background: url("../Assets/eye.svg") no-repeat center;
     background-size: cover;
 }
 .B3 span{
@@ -318,7 +318,7 @@ main{
     margin-top:19px;
     margin-left: 7%;
     margin-bottom: 15px; 
-    background: url("./assets/icons/dollar-sign.svg") no-repeat center;
+    background: url("../Assets/dollar-sign.svg") no-repeat center;
     background-size: cover;
 }
 .B4 span{
@@ -328,14 +328,14 @@ main{
     margin-top:16px;
     margin-left: 7%;
     margin-bottom: 12px; 
-    background: url("./assets/icons/check-circle.svg") no-repeat center;
+    background: url("../Assets/check-circle.svg") no-repeat center;
     background-size: cover;
 }
 .benefitsSection-backgroundImage{
     width: 100%;
     min-width: 320px;
     height: 387px;
-    background: url("./assets/img/bitcoinbaby.jpg") no-repeat center;
+    background: url("../Assets/bitcoinbaby.jpg") no-repeat center;
     background-size: cover;
 }
 .benefitsSection-backgroundImage p{
@@ -470,7 +470,7 @@ main{
     width: 20px;
     height: 20px;
     margin-left: 10px;
-    background: url("./assets/icons/orange-right-arrow.svg") no-repeat center;
+    background: url("../Assets/orange-right-arrow.svg") no-repeat center;
     background-size: cover;
     vertical-align: text-bottom;
 
