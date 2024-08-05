@@ -24,7 +24,8 @@ html{
 header{
     position: relative;
     display: flex;
-    flex-direction: column;
+    flex-flow: column nowrap;
+    align-items: center;
     width: 100%;
     min-width: 320px;
     height: 334px;
@@ -214,7 +215,6 @@ main{
     line-height: 1.5rem;
     color: var(--warm-black);
 }
-    /*.main-benefitsSection*/
 .main-benefitsSection{
     width: 100%;
     height: auto;
@@ -223,9 +223,9 @@ main{
 }
 .main-benefitsSection img{
     position: absolute;
-    width: 40.57px;
-    height: 24.01px;
-    top: -12.005px;
+    width: 60.57px;
+    height: 44.01px;
+    top: -22.005px;
     left: calc(50% - 18.525px);
 }
 .benefitsSection-texts{
@@ -391,6 +391,7 @@ main{
     padding: 0px 15px;
     background-color: var(--just-white);
     border-radius: 15px;
+    cursor: pointer;
 }
 .main-planesSection-cardsCountainer .C1{
     box-shadow: -3px 6px 4px rgba(133, 112, 50, 0.8);
@@ -460,6 +461,7 @@ main{
     color: var(--black);
     border: solid 1.5px var(--bitcoin-orange);
     border-radius: 5px;
+    cursor: pointer;
 }
 .card-info button span{
     display: inline-block;
@@ -530,6 +532,11 @@ footer .left ul{
     color: var(--just-white);
     text-decoration: none;
     text-shadow: 1px 3px 8px var(--warm-black);
+}
+.right img{
+    width: 100px;
+    height: 100px;
+
 }
 
 /*PSEUDO CLASSES & ELEMENTS*/
