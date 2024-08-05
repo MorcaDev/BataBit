@@ -3,7 +3,8 @@
 ![Icon](https://github.com/MorcaDev/BataBit/blob/master/Assets/banner.png "BataBit")
 
 ## Project Overview
-💰 BataBit, It's landing page designed for a company wich provides information about the criptocoins market prices 🤑.
+👋 Welcome to BataBit, the ultimate platform for staying ahead in the world of cryptocurrencies 💰. Our landing page is designed to offer you instant access to the latest market prices and trends of major cryptocurrencies 🤑. Whether you're a seasoned investor or just starting, BataBit equips you with reliable, up-to-date information to make informed decisions ⌚.
+
 
 ![LandingMobile](https://github.com/MorcaDev/BataBit/blob/master/Assets/mobile.gif "BataBit")
 ![LandingDesktop](https://github.com/MorcaDev/BataBit/blob/master/Assets/desktop.gif "BataBit")
